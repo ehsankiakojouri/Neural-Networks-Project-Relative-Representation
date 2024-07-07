@@ -17,3 +17,6 @@ All experiments were performed on Kaggle. If you wish to replicate the experimen
 
 ## Detailed explanations provided by:
 https://lucmos.github.io/relreps-presentation/
+
+## reference to the original paper:
+https://arxiv.org/pdf/2209.15430
