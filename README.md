@@ -14,3 +14,6 @@ Each script in the repository can be run separately. Make sure to install the de
 
 ## Experiments
 All experiments were performed on Kaggle. If you wish to replicate the experiments, you can upload the code to Kaggle and run it there.
+
+## Detailed explanations provided by:
+https://lucmos.github.io/relreps-presentation/
