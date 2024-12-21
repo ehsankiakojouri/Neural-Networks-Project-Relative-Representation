@@ -1,3 +1,6 @@
+# UPDATE:
+There are minor inconsistencies between networks in the visualization of low-dimensional latent space. This phenomenon is explained by the insights discussed in the paper: "Challenges in Explaining Representational Similarity through Identifiability" [Nielsen et al., 2024](https://openreview.net/forum?id=SQKUZSieVg). UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models.
+
 # Neural Networks Course Project
 
 This repository contains the code for my neural networks course project. All experiments and analyses were conducted on Kaggle.
